@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-trip-journal/static/css/main.1089b153.css",
+    "main.js": "/my-trip-journal/static/js/main.d742844f.js",
+    "static/media/g_museum.jpg": "/my-trip-journal/static/media/g_museum.8c300ffcfcfa1ee07558.jpg",
+    "static/media/b_palace.jpg": "/my-trip-journal/static/media/b_palace.e60f3c0105ba9bfd7f89.jpg",
+    "static/media/hal.jpg": "/my-trip-journal/static/media/hal.1eb8f81f667e4017d74b.jpg",
+    "static/media/tipu.jpg": "/my-trip-journal/static/media/tipu.6e675d4d1e2c55f6557e.jpg",
+    "static/media/Path.png": "/my-trip-journal/static/media/Path.6bf20e128c82ec0c5efb.png",
+    "static/media/commercial.jfif": "/my-trip-journal/static/media/commercial.e511cb27c821249e94d0.jfif",
+    "index.html": "/my-trip-journal/index.html",
+    "main.1089b153.css.map": "/my-trip-journal/static/css/main.1089b153.css.map",
+    "main.d742844f.js.map": "/my-trip-journal/static/js/main.d742844f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1089b153.css",
+    "static/js/main.d742844f.js"
+  ]
+}
