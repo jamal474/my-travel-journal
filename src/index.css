@@ -11,3 +11,98 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header {
+  height : 60px;
+  display : flex;
+  justify-content: center;
+  align-content: flex-end;
+  background:#F55A5A;
+  padding : 5px;
+  margin-bottom: 0px;
+}
+.header > h1 {
+  font-size: 20px;
+  color : white;
+  font-family: Inter;
+}
+.header > img {
+  width : 55px;
+  height : 55px;
+  padding-right: 10px;
+}
+
+.main {
+  padding-top : 50px;
+  margin-left : 200px;
+  margin-right  :200px;
+  margin-top : 50px;
+  font-family: Inter;
+}
+
+.place {
+  display : flex;
+  box-shadow: 0px 3px 0px rgb(204, 204, 204);
+  margin-bottom : 25px;
+}
+
+.detail {
+  display : flex;
+  flex-direction: column;
+}
+.loc {
+  display : flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom : 0px;
+}
+
+.loc > img{
+  margin-right : 15px;
+  width : 17px;
+  height : 24px;
+  line-height : 15px;
+}
+.loc > h3 {
+  margin-right : 15px;
+  font-weight: 400;
+  font-size : 20px;
+}
+
+.loc > a {
+  color : #918E9B;
+  font-weight: 400;
+  
+}
+
+.detail > h4 {
+  color : #2B283A;
+  font-weight: 700;
+  font-size : 50px;
+  margin-top: 0px;
+  margin-bottom : 0px;
+}
+
+.detail > h5 {
+  color : #2B283A;
+  font-weight: 700;
+  font-size : 20px;
+  margin-bottom: 0px;
+}
+
+.detail > h6 {
+  color : #2B283A;
+  font-weight: 400;
+  font-size : 20px;
+  margin-top: 15px;
+}
+.place--phts {
+  margin-right : 20px;
+  border : 0px;
+  border-radius : 10px;
+  height: 280px;
+  width : 220px;
+  box-shadow: -4px -4px 15px rgba(252, 0, 0,0.5),
+              4px 4px 15px rgba(0, 0, 248, 0.5);
+}
+
