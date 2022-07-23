@@ -38,6 +38,7 @@ code {
   margin-right  :200px;
   margin-top : 50px;
   font-family: Inter;
+  
 }
 
 .place {
@@ -105,4 +106,3 @@ code {
   box-shadow: -4px -4px 15px rgba(252, 0, 0,0.5),
               4px 4px 15px rgba(0, 0, 248, 0.5);
 }
-

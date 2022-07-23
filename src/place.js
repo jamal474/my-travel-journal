@@ -38,8 +38,9 @@ function Place(props) {
     return (
         
         <div className="place">
-            <img src= {imgg}
-            alt="location image"className="place--phts"/>
+            <div className="rbg">
+                <img src= {imgg} alt="location image"className="place--phts"/>
+            </div>
             <div className="detail">
                 <div className="loc">
                     <img src={path} />
